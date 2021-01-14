@@ -1,0 +1,7 @@
+C:\Users\drama\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\drama\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\drama\source\repos\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\drama\source\repos\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\drama\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\drama\source\repos\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\drama\source\repos\Projekt\Projekt\obj\Debug\Projekt.pdb
